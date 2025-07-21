@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import the images CSS file here */
+@import "../styles/images.css"; /* This path is correct relative to globals.css */
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .text-shadow-sm {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+
+  .scrollbar-track-gray-800 {
+    scrollbar-color: #1f2937 transparent;
+  }
+
+  .scrollbar-thumb-gradient-to-r {
+    scrollbar-color: #00ff88 #00ddff;
+  }
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #00ff88, #00ddff);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #00ddff, #00ff88);
+}
+
+/* Hide scrollbar for movie rows */
+.movie-row::-webkit-scrollbar {
+  display: none;
+}
+
+.movie-row {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom smooth scrolling with easing */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Smooth scrolling for specific elements */
+.smooth-scroll {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,326 @@
+/* ===== SHOW IMAGES ===== */
+
+/* Trending Shows */
+.show-stranger-things {
+  background-image: url("/images/stranger.jpg");
+}
+
+.show-the-witcher {
+  background-image: url("/images/witcher.jpg");
+}
+
+.show-dark {
+  background-image: url("/images/dark.jpg");
+}
+
+.show-money-heist {
+  background-image: url("/images/money.jpg");
+}
+
+.show-ozark {
+  background-image: url("/images/ozark.jpg");
+}
+
+.show-peaky-blinders {
+  background-image: url("/images/peaky.jpg");
+}
+
+.show-euphoria {
+  background-image: url("/images/euphoria.jpg");
+}
+
+.show-the-boys {
+  background-image: url("/images/boys.jpg");
+}
+
+.show-succession {
+  background-image: url("/images/succ.jpg");
+}
+
+.show-mandalorian {
+  background-image: url("/images/manda.jpeg");
+}
+
+.show-westworld {
+  background-image: url("/images/westw.jpg");
+}
+
+.show-last-of-us {
+  background-image: url("/images/last.jpeg");
+}
+
+.show-wednesday {
+  background-image: url("/images/wed.jpeg");
+}
+
+.show-house-of-dragon {
+  background-image: url("/images/HOTD.jpeg");
+}
+
+.show-rings-of-power {
+  background-image: url("/images/lordrings.jpg");
+}
+
+.show-squid-game {
+  background-image: url("/images/Squid.jpeg");
+}
+
+.show-andor {
+  background-image: url("/images/andor.jpeg");
+}
+
+/* Popular Shows */
+.show-the-crown {
+  background-image: url("/images/crown.jpg");
+}
+
+.show-house-of-cards {
+  background-image: url("/images/cards.jpeg");
+}
+
+.show-narcos {
+  background-image: url("/images/narco.jpeg");
+}
+
+.show-breaking-bad {
+  background-image: url("/images/bb.jpg");
+}
+
+.show-vikings {
+  background-image: url("/images/vikings.jpeg");
+}
+
+.show-better-call-saul {
+  background-image: url("/images/saul.jpg");
+}
+
+.show-sherlock {
+  background-image: url("/images/sherlock.jpg");
+}
+
+.show-friends {
+  background-image: url("/images/fiend.jpeg");
+}
+
+.show-the-office {
+  background-image: url("/images/off.jpeg");
+}
+
+.show-mindhunter {
+  background-image: url("/images/mindhunt.jpg");
+}
+
+.show-homeland {
+  background-image: url("/images/homeland.jpeg");
+}
+
+.show-true-detective {
+  background-image: url("/images/truedet.jpeg");
+}
+
+.show-fargo {
+  background-image: url("/images/fargo.jpeg");
+}
+
+.show-boardwalk-empire {
+  background-image: url("/images/broad.jpg");
+}
+
+.show-sopranos {
+  background-image: url("/images/sopranos.jpg");
+}
+
+.show-dexter {
+  background-image: url("/images/dexter.jpeg");
+}
+
+.show-lost {
+  background-image: url("/images/lost.jpg");
+}
+
+/* ===== MOVIE IMAGES ===== */
+
+/* Recent Releases */
+.movie-superman {
+  background-image: url("/images/super.jpeg");
+}
+
+.movie-fantastic-four {
+  background-image: url("/images/f4.jpg");
+}
+
+.movie-f1 {
+  background-image: url("/images/f1.jpeg");
+}
+
+.movie-blade-runner {
+  background-image: url("/images/blade.jpg");
+}
+
+.movie-avatar-3 {
+  background-image: url("/images/avt3.jpeg");
+}
+
+.movie-mission-impossible {
+  background-image: url("/images/mp.jpeg");
+}
+
+.movie-john-wick {
+  background-image: url("/images/JW.jpg");
+}
+
+.movie-dune-3 {
+  background-image: url("/images/dune.avif");
+}
+
+/* Marvel Movies */
+.movie-avengers-1 {
+  background-image: url("/images/avengers1.jpg");
+}
+
+.movie-avengers-2 {
+  background-image: url("/images/avengers2.jpg");
+}
+
+.movie-avengers-3 {
+  background-image: url("/images/avengers3.jpeg");
+}
+
+.movie-avengers-4 {
+  background-image: url("/images/avengers4.jpeg");
+}
+
+/* Spider-Man Collection */
+.movie-spider-man-1 {
+  background-image: url("/images/spider1.jpeg");
+}
+
+.movie-spider-man-2 {
+  background-image: url("/images/spider2.jpg");
+}
+
+.movie-spider-man-3 {
+  background-image: url("/images/spider3.jpeg");
+}
+
+.movie-amazing-spider-man-1 {
+  background-image: url("/images/Aspider1.jpeg");
+}
+
+.movie-amazing-spider-man-2 {
+  background-image: url("/images/aspider2.jpg");
+}
+
+.movie-spider-man-homecoming {
+  background-image: url("/images/spidey.jpg");
+}
+
+.movie-spider-man-far-from-home {
+  background-image: url("/images/spidey2.jpeg");
+}
+
+.movie-spider-man-no-way-home {
+  background-image: url("/images/spidey3.jpg");
+}
+
+.movie-spider-verse-1 {
+  background-image: url("/images/morales.jpeg");
+}
+
+.movie-spider-verse-2 {
+  background-image: url("/images/morales2.jpg");
+}
+
+.movie-venom-1 {
+  background-image: url("/images/venom.jpeg");
+}
+
+.movie-venom-2 {
+  background-image: url("/images/venom2.jpeg");
+}
+
+/* Romance Movies */
+.movie-fifty-shades-1 {
+  background-image: url("/images/50.jpg");
+}
+
+.movie-fifty-shades-2 {
+  background-image: url("/images/50 freed.jpeg");
+}
+
+.movie-fifty-shades-3 {
+  background-image: url("/images/50dark.jpg");
+}
+
+.movie-the-notebook {
+  background-image: url("/images/notebook.jpg");
+}
+
+.movie-titanic {
+  background-image: url("/images/titanic.jpg");
+}
+
+.movie-la-la-land {
+  background-image: url("/images/lala.jpg");
+}
+
+/* Epic Movies */
+.movie-troy {
+  background-image: url("/images/troy.jpg");
+}
+
+.movie-gladiator {
+  background-image: url("/images/glad.jpg");
+}
+
+.movie-braveheart {
+  background-image: url("/images/braveheart.jpeg");
+}
+
+.movie-300 {
+  background-image: url("/images/300.jpg");
+}
+
+.movie-kingdom-of-heaven {
+  background-image: url("/images/koh.jpeg");
+}
+
+.movie-alexander {
+  background-image: url("/images/Alexander.jpg");
+}
+
+/* ===== COMMON STYLES ===== */
+
+/* Base styles for all movie/show cards */
+.movie-poster-base {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+/* Fallback for missing images */
+.movie-poster-fallback {
+  background: linear-gradient(45deg, #1a1a1a, #2a2a2a);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Hero background images */
+.hero-game-of-thrones {
+  background-image: url("/images/GOT\ cover.jpg");
+}
+
+.hero-fifty-shades {
+  background-image: url("/images/fifty-shades.jpg");
+}
+
+.hero-avengers {
+  background-image: url("/images/Avengers.jpeg");
+}
